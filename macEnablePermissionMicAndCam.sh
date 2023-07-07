@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # get app id (Zoom.us used in example):
 echo "Digite o nome do app (e.g. Brave Browser): "
 read appName
